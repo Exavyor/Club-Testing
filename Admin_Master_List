@@ -11,7 +11,7 @@ ROLE:DoorEntry
 [1] Local Player
 
 ROLE:VIPposter
-[1] Local PLayer
+[1] Local Player
 
 ROLE:Squeakers
 TestingSqueakers
@@ -20,7 +20,7 @@ ROLE:PINsecurity
 111
 
 ROLE:PINdancer
-222
+2223
 
 ROLE:PINdj
 333
