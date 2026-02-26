@@ -1,2 +1,26 @@
 [Security]
 [1] Local Player 1
+
+[Dancer]
+TestingDancer
+
+[DJ]
+TestingDJ
+
+[DoorEntry]
+TestingDoorEntry
+
+[VIP Poster]
+TestingVIPposter
+
+[Squeakers Poster]
+TestingSqueakers
+
+[PinCodeSecurity]
+111
+
+[PinCodeDancer]
+222
+
+[PinCodeDJ]
+333
