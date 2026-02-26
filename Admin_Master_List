@@ -8,7 +8,7 @@ ROLE:DJ
 TestingDJ
 
 ROLE:DoorEntry
-TestingDoorEntry
+[1] Local Player
 
 ROLE:VIPposter
 TestingVIPposter
