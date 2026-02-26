@@ -1,0 +1,44 @@
+\\ Notes. Any line that starts with \\ will not be added as a player and can be used to make notes, such at this one.
+\\The words ROLE: are used to identify where the script should pull names from. DO NOT EVER edit any ROLE: line. It will break the script.
+
+
+\\This is the security role and gives permissions to see the security panel
+ROLE:Security
+[1] Local Player
+
+
+\\This is for dancers and lets people into the dancer room and back stage.
+ROLE:Dancer
+[1] Local Player
+
+
+\\The DJ role gives permissions to use the video player and access the DJ room
+ROLE:DJ
+[1] Local Player
+
+
+\\This allows people to bypass security and go right in.
+ROLE:DoorEntry
+[1] Local Player
+
+\\This section is still for door entry but should only be used for VIP names so it is easy to find them.
+
+
+\\This puts names on the VIP poster/
+ROLE:VIPposter
+[1] Local Player
+
+
+\\This puts names on the Squeakers Poster
+ROLE:Squeakers
+[1] Local Player
+
+\\Below are codes to the pin pads.
+ROLE:PINsecurity
+111
+
+ROLE:PINdancer
+2222
+
+ROLE:PINdj
+3333
