@@ -1,26 +1,26 @@
-[Security]
-[1] Local Player 1
+ROLE:Security
+[1] Local Player
 
-[Dancer]
+ROLE:Dancer
 TestingDancer
 
-[DJ]
+ROLE:DJ
 TestingDJ
 
-[DoorEntry]
+ROLE:DoorEntry
 TestingDoorEntry
 
-[VIP Poster]
+ROLE:VIPposter
 TestingVIPposter
 
-[Squeakers Poster]
+ROLE:Squeakers
 TestingSqueakers
 
-[PinCodeSecurity]
+ROLE:PINsecurity
 111
 
-[PinCodeDancer]
+ROLE:PINdancer
 222
 
-[PinCodeDJ]
+ROLE:PINdj
 333
