@@ -21,7 +21,6 @@ Kami Oni
 \\This is for dancers and lets people into the dancer room and back stage.
 ROLE:Dancer
 Rin Omi
-[1] Local Player
 ~McFly~
 Subashi-Sama
 Kayoko
@@ -95,7 +94,6 @@ MOONLIGHTHAVEN
 \\This allows people to bypass security and go right in.
 ROLE:DoorEntry
 Rin Omi
-[1] Local Player
 ~McFly~
 Subashi-Sama
 Kayoko
