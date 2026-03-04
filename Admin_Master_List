@@ -20,9 +20,8 @@ Kami Oni
 EREKOSES
 
 
-\\This is for dancers and lets people into the dancer room and back stage.
+\\This is for dancers and lets people into the dancer room and back stage. And VIP Hallway.
 ROLE:Dancer
-Rin Omi
 ~McFly~
 Subashi-Sama
 Kayoko
@@ -185,8 +184,9 @@ Foxbody
 ʟɪʟʀᴇᴅᴅᴇᴠɪʟ
 
 
-\\This puts names on the VIP poster/
+\\This puts names on the VIP poster and give access to the vip hallway.
 ROLE:VIPposter
+Rin Omi
 Shikigami402
 LemCrossview
 CM_Pony
