@@ -7,99 +7,22 @@ ROLE:Security
 [1] Local Player
 Rin Omi
 ~McFly~
-Subashi-Sama
-Kayoko
-WYSGhost
-LuckyNoodle
-Lightinglance
-riley4sjr
-Darkleo1078
 ~Whiskeypaws~
-MOONLIGHTHAVEN
-Kami Oni
-EREKOSES
-˗ˏˋBambooˎˊ˗
-Shikigami402
 
 
 \\This is for dancers and lets people into the dancer room and back stage.
 ROLE:Dancer
 Rin Omi
 ~McFly~
-Subashi-Sama
-Kayoko
-Rivy Cytherea
-HopperStopper
-AlphaJason55
-LuckyNoodle
-lovlydaisy98
-ジ bingo
-beefsupreme63
-G4merWolf1e
-AbyssKnightmare
-¥~NordicHound~¥
-FlameMasterWR
-EsterTheKitty
-Rogerhawaii
-~BabyCarrot~
-Crusader2132
-BalanceFox
-ෆաǟɨʄʊ-ɢօʀɛෆ
-Blossomlinaa
--Punchh-
-Delicious Deli
-°Smolzilla°
-Asher krokodi
-RoxyFox
-Mauvе
--Nap
-Rockstana
-~ʙʟᴏᴏᴅʏʙᴀᴛ~
-¥Mama_Raven¥
-rosedollard5465
-ღScarlet
-MamaSweets
-PapaSweets
-tangentparsley
-_-Kagome-_-
-Chrispychrem
-wunderburst
-Amaryllis༄
-LyraPiranhaVA
-WYSGhost
-Rain_Iwa
-MusicGeek85
-Lightinglance
-vixx3nbunny
-Kami Oni
-˗ˏˋBambooˎˊ˗
 ~Whiskeypaws~
-MOONLIGHTHAVEN
-Edgycat246
-《Ｋａｉｙａｈ》
-Lotus_NotDancer
-Jekirby333
-TuskVRC
-~_ValkyrieVR_~
-CookieWaifu
-༒MΛΣSƬRӨ_ΣVIL༒
-Ｋａｉｙａｈ
-CyberWolf019
 
 
 \\The DJ role gives permissions to use the video player and access the DJ room
 ROLE:DJ
 Rin Omi
 ~McFly~
-Subashi-Sama
-Kayoko
-Kami Oni
 d33p_blu3
-BladedAsteroth
-༒ Aerith ༒
-- ༒ Aerith ༒ -
 ~Whiskeypaws~
-MOONLIGHTHAVEN
 
 
 \\This allows people to bypass security and go right in.
@@ -107,74 +30,8 @@ ROLE:DoorEntry
 Rin Omi
 [1] Local Player
 ~McFly~
-Subashi-Sama
-Kayoko
-Rivy Cytherea
-HopperStopper
-AlphaJason55
-LuckyNoodle
-lovlydaisy98
-ジ bingo
-beefsupreme63
-G4merWolf1e
-AbyssKnightmare
-¥~NordicHound~¥
-FlameMasterWR
-EsterTheKitty
-Rogerhawaii
-~BabyCarrot~
-Crusader2132
-BalanceFox
-ෆաǟɨʄʊ-ɢօʀɛෆ
-Blossomlinaa
--Punchh-
-Delicious Deli
-°Smolzilla°
-Asher krokodi
-RoxyFox
-Mauvе
--Nap
-Rockstana
-~ʙʟᴏᴏᴅʏʙᴀᴛ~
-¥Mama_Raven¥
-rosedollard5465
-ღScarlet
-MamaSweets
-PapaSweets
-tangentparsley
-_-Kagome-_-
-Chrispychrem
-wunderburst
-Amaryllis༄
-LyraPiranhaVA
-Kami Oni
-WYSGhost
-vixx3nbunny
-Rain_Iwa
-MusicGeek85
-Lightinglance
-riley4sjr
-˗ˏˋBambooˎˊ˗
-BladedAsteroth
-EREKOSES
-༒ Aerith ༒
-MechanicaIBoom
-d33p_blu3
-sem9064
-Darkleo1078
 ~Whiskeypaws~
-MOONLIGHTHAVEN
-《Ｋａｉｙａｈ》
-Lotus_NotDancer
-Shikigami402
-Jekirby333
-TuskVRC
-~_ValkyrieVR_~
-CookieWaifu
-༒MΛΣSƬRӨ_ΣVIL༒
-Edgycat246
-Ｋａｉｙａｈ
-CyberWolf019
+
 
 \\This section is still for door entry but should only be used for VIP names so it is easy to find them.
 
@@ -182,54 +39,11 @@ CyberWolf019
 
 \\This puts names on the VIP poster.
 ROLE:VIPposter
-BAZZAROO
-Rin Omi
-Shikigami402
-LemCrossview
-CM_Pony
-MasterRDNK
-KizakiMaburo
-EREKOSES
-LordZachBora
-Yunogasi12
-MikeyTheAsian
-Acerron
-Kur0saru
--Squashy-
-Kami Oni
-Lightinglance
-RPG_CHICAGO
-Anthoniel
-Nova_xis
-LilPacMack
-Kitsami
-Vøîď Řîppěř Ðøč
-CypherpunkFR
-browniesftw
-MusicGeek85
-FofinhoFemboy
-NexTheUmbreon
-AlphaJason55
-Foxbody
-Scribble72
-puppy_lover153
-ExaVetis
-Lumbago582
-monkeyman1520
-Were-Wolf69
-Galolo
-Solid_Fox
-CyberWolf019
-TamaRozu
-¥~NordicHound~¥
-Sighcodelics
+
 
 \\This puts names on the Squeakers Poster
 ROLE:Squeakers
-LilPacMack
-Kayoko
-Kuof
-MusicGeek85
+
 
 \\Below are codes to the pin pads.
 ROLE:PINsecurity
